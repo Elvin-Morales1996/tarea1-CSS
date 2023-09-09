@@ -1,0 +1,43 @@
+div{
+    margin:80px;
+    height: 700px;
+    width: 900px;
+    
+}
+
+form{
+    border: 1px solid black;
+    font-size: 22px;
+    padding: 40px;
+    width: 900px;
+    height: 900px;
+   
+   
+
+}
+form input{
+   margin: 40px;
+    border: 5px solid ;
+    display: inline-block;
+    width: 600px;
+
+}
+form label{
+    margin:20px;
+	width:72px;
+	display: inline-block;
+}
+form select{
+    display: block;
+    width: 400px;
+
+}
+
+a{
+    color: black;
+    outline: none;
+    text-decoration: none;
+}
+
+
+
